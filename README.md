@@ -2,7 +2,7 @@
 Flask Portfolio Website
 A simple personal portfolio website built with Flask, featuring a homepage, contact form, and a styled thank-you page with auto-redirect.
 
-Features
+Features:-
 Home page with introduction
 Contact page with form
 Styled thank-you page with fade-in animation and auto-redirect
