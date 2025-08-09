@@ -4,10 +4,15 @@ A simple personal portfolio website built with Flask, featuring a homepage, cont
 
 Features:-
 Home page with introduction
+
 Contact page with form
+
 Styled thank-you page with fade-in animation and auto-redirect
+
 Responsive design using HTML, CSS, and Google Fonts
+
 Project Structure
+
 portfolio_flask/
 │
 ├── app.py
@@ -17,7 +22,9 @@ portfolio_flask/
 │   └── thankyou.html
 └── static/
     └── style.css
+    
 Installation
+
 Clone the repository:
 
 git clone <[repository_url](https://github.com/Madhumad36/portofolio_flask_website)>
