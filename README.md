@@ -16,11 +16,17 @@ Project Structure
 portfolio_flask/
 │
 ├── app.py
+
 ├── templates/
+
 │   ├── index.html
+
 │   ├── contact.html
+
 │   └── thankyou.html
+
 └── static/
+
     └── style.css
     
 Installation
