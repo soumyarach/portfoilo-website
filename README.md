@@ -37,7 +37,7 @@ git clone <[repository_url](https://github.com/soumyarach/portfoilo-website.git)
 cd portfolio_flask
 Install Flask:
 
-pip install flask
+    pip install flask
 Run the app:
 
 python app.py
@@ -45,5 +45,5 @@ python app.py
 python3 app.pyi 
 Open the application in your browser:
 
-http://127.0.0.1:5000
+    http://127.0.0.1:5000
 Sample Output
