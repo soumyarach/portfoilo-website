@@ -33,7 +33,7 @@ Installation
 
 Clone the repository:
 
-git clone <[repository_url](https://github.com/Madhumad36/portofolio_flask_website)>
+git clone <[repository_url](https://github.com/soumyarach/portfoilo-website.git)>
 cd portfolio_flask
 Install Flask:
 
