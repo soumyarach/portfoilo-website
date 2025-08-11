@@ -13,19 +13,19 @@ Responsive design using HTML, CSS, and Google Fonts
 
 Project Structure
 
-portfolio_flask/
-│
-├── app.py
+    portfolio_flask/
 
-├── templates/
+    ├── app.py
 
-│   ├── index.html
+    ├── templates/
 
-│   ├── contact.html
+    ├── index.html
 
-│   └── thankyou.html
+    ├── contact.html
 
-└── static/
+    └── thankyou.html
+
+    └── static/
 
     └── style.css
     
